@@ -24,6 +24,9 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
  - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
 
+## Stats
+
+[![Tomato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomato6966)](https://github.com/anuraghazra/github-readme-stats)
 
 ## SUPPORT ME
 
